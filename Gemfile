@@ -14,6 +14,9 @@ gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '~> 3.0'
 gem 'simple_form'
 gem 'devise', '>= 3.2.4'
+gem "geocoder", '1.3.4'
+gem "figaro", '>= 1.0.0'
+
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
