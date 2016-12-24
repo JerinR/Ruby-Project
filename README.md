@@ -1,4 +1,4 @@
-YUMSTER!!!
+#YUMSTER!!!
 
 
 Yumster is a Ruby on Rails project.
